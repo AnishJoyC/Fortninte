@@ -1,15 +1,15 @@
 h1 {
-  font-family: "Roboto, sans-serif";
+  font-family: "Roboto";
   font-size: 43px;
   font-weight: 200;
   line-height: 48px;
   letter-spacing: 0.96px;
 }
 .subheading {
-  font-family: "Poppins, sans-serif";
+  font-family: "Poppins";
   font-weight: 400;
-  font-size: 18px;
-  line-height: 27px;
+  font-size: 17px;
+  line-height: 24px;
   text-align: center;
   color: #ffffff;
 }
@@ -18,7 +18,7 @@ h1 {
   height: 60px;
   border-color: unset;
   background-color: white;
-  font-family: "Poppins, sans-serif";
+  font-family: "Poppins";
   font-size: 19px;
   font-weight: 700;
   line-height: 28px;
@@ -28,13 +28,13 @@ h1 {
   border-radius: unset;
 }
 h2 {
-  font-family: "Roboto, sans-serif";
+  font-family: "Roboto";
   font-weight: 200;
   font-size: 42px;
   line-height: 48px;
 }
 .subhead2 {
-  font-family: "Poppins, sans-serif";
+  font-family: "Poppins";
   font-weight: 400;
   font-size: 18px;
   line-height: 27px;
@@ -48,21 +48,21 @@ h3 {
   text-transform: capitalize;
 }
 .subhead3 {
-  font-family: "Roboto, sans-serif";
+  font-family: "Roboto";
   font-weight: 100;
   font-size: 25px;
   line-height: 29px;
   text-align: center;
 }
 h4 {
-  font-family: "Roboto, sans-serif";
+  font-family: "Roboto";
   font-weight: 100;
   font-size: 45px;
   line-height: 48px;
   letter-spacing: 4px;
 }
 .subhead4 {
-  font-family: "Roboto, sans-serif";
+  font-family: "Roboto";
   font-weight: 100;
   letter-spacing: 3px;
   font-size: 20px;
@@ -73,7 +73,7 @@ h4 {
   color: white;
   width: 23%;
   margin-right: 5%;
-  font-family: "Poppins, sans-serif";
+  font-family: "Poppins";
   font-weight: 500;
   font-size: 18px;
   line-height: 27px;
@@ -86,7 +86,7 @@ h4 {
   background-color: white;
   color: black;
   width: 23%;
-  font-family: "Poppins, sans-serif";
+  font-family: "Poppins";
   font-weight: 800;
   font-size: 18px;
   line-height: 27px;

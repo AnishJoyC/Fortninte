@@ -8,7 +8,7 @@ const Main = () => {
   return (
     <>
       <div className="header py-5">
-        <h1 className="mt-5 mb-5 ">
+        <h1 className="mt-5 mb-5">
           Epic Games : An American Video Game And Software Developer <br /> And
           Publisher Based In Cary, North Carolina.
         </h1>
@@ -40,7 +40,7 @@ const Main = () => {
 
               <p
                 style={{
-                  fontFamily: "Roboto, sans-serif",
+                  fontFamily: "Roboto",
                   fontSize: "larger",
                 }}
               >
@@ -62,7 +62,7 @@ const Main = () => {
 
               <p
                 style={{
-                  fontFamily: "Roboto, sans-serif",
+                  fontFamily: "Roboto",
                   fontSize: "larger",
                 }}
               >
@@ -84,7 +84,7 @@ const Main = () => {
 
               <p
                 style={{
-                  fontFamily: "Roboto, sans-serif",
+                  fontFamily: "Roboto",
                   fontSize: "larger",
                 }}
               >
@@ -100,7 +100,7 @@ const Main = () => {
           <h2
             className="pt-5"
             style={{
-              fontFamily: "Roboto, sans-serif",
+              fontFamily: "Roboto",
               fontWeight: 200,
               fontSize: "42px",
               lineHeight: "48px",
