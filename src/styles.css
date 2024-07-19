@@ -14,7 +14,7 @@ h1 {
   color: #ffffff;
 }
 .visitBTN {
-  width: 416px;
+  width: 7%;
   height: 60px;
   border-color: unset;
   background-color: white;
@@ -86,7 +86,7 @@ h4 {
   background-color: white;
   color: black;
   width: 23%;
-  font-family: "Poppins";
+  font-family: "Poppins, sans-serif";
   font-weight: 800;
   font-size: 18px;
   line-height: 27px;
@@ -94,4 +94,60 @@ h4 {
   border-radius: unset;
   border-color: unset;
   text-align: center;
+}
+
+@media (max-width: 768px) {
+  .SIgnupBtn,
+  .ContactBTN,
+  img {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 576px) {
+  .header h1 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+  .visitBTN {
+    width: 50%;
+  }
+  .header .subheading {
+    font-size: 13px;
+    line-height: 18px;
+  }
+
+  .header .visitBTN {
+    font-size: 14px;
+  }
+
+  .container h2 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .container .subhead2 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .container .subhead3 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .container h3 {
+    font-size: 50px;
+  }
+
+  .container h4 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .container .subhead4 {
+    font-size: 14px;
+    line-height: 18px;
+  }
 }
