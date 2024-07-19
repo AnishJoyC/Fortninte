@@ -1,0 +1,97 @@
+h1 {
+  font-family: "Roboto, sans-serif";
+  font-size: 43px;
+  font-weight: 200;
+  line-height: 48px;
+  letter-spacing: 0.96px;
+}
+.subheading {
+  font-family: "Poppins, sans-serif";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #ffffff;
+}
+.visitBTN {
+  width: 416px;
+  height: 60px;
+  border-color: unset;
+  background-color: white;
+  font-family: "Poppins, sans-serif";
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0.96px;
+  color: black;
+  text-align: center;
+  border-radius: unset;
+}
+h2 {
+  font-family: "Roboto, sans-serif";
+  font-weight: 200;
+  font-size: 42px;
+  line-height: 48px;
+}
+.subhead2 {
+  font-family: "Poppins, sans-serif";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  color: #ffffff;
+}
+h3 {
+  font-weight: 100;
+  font-size: 80px;
+  line-height: 17px;
+  text-transform: capitalize;
+}
+.subhead3 {
+  font-family: "Roboto, sans-serif";
+  font-weight: 100;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+}
+h4 {
+  font-family: "Roboto, sans-serif";
+  font-weight: 100;
+  font-size: 45px;
+  line-height: 48px;
+  letter-spacing: 4px;
+}
+.subhead4 {
+  font-family: "Roboto, sans-serif";
+  font-weight: 100;
+  letter-spacing: 3px;
+  font-size: 20px;
+  line-height: 25px;
+}
+.SIgnupBtn {
+  background-color: black;
+  color: white;
+  width: 23%;
+  margin-right: 5%;
+  font-family: "Poppins, sans-serif";
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  border: 1px solid white;
+  border-radius: unset;
+  padding: 10px 20px;
+  text-align: center;
+}
+.ContactBTN {
+  background-color: white;
+  color: black;
+  width: 23%;
+  font-family: "Poppins, sans-serif";
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 10px 20px;
+  border-radius: unset;
+  border-color: unset;
+  text-align: center;
+}
